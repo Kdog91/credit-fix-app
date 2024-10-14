@@ -1,0 +1,42 @@
+/* static/styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 20px 0;
+}
+
+ul li a {
+    text-decoration: none;
+    background: #333;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+ul li a:hover {
+    background: #555;
+}
+
+.letter {
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px 0;
+}
+
